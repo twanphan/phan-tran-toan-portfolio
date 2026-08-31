@@ -1,1 +1,0 @@
-Portfolio tĩnh tiếng Việt của Phan Trần Toàn. Bản này giữ nguyên visual/format chính của demo trước và bổ sung 15 ảnh minh chứng từ portfolio materials.docx, kèm diễn giải và lightbox. Mở index.html để xem.
